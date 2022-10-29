@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PM1-Tarea 1.3</string>
+    <string name="texto_buscar" />
+    <string name="texto_eliminar" />
+    <string name="texto_actualizar" />
+</resources>
